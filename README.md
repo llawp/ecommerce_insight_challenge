@@ -1,4 +1,4 @@
-# E-commerce Data Insight
+# E-commerce Data Insight Challenge
 
 
 I was assigned to work with an e-commerce company and asked to provide insights about the current situation based on the data given to do the following:
